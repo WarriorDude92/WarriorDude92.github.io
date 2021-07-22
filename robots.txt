@@ -1,2 +1,12 @@
+<<<<<<< Updated upstream
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
+=======
+# Group 1
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+# Group 2
+User-agent: *
+Allow: /
+>>>>>>> Stashed changes
